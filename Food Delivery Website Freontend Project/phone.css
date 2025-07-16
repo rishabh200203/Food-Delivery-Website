@@ -1,0 +1,53 @@
+/* SECTION 1 */
+.navbar{
+    height: 90px;
+    
+}
+.logo{
+   display: block;
+   width: 100%;
+}
+.logo img{
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin-left: 0px;
+}
+
+.navbar ul a{
+    margin-top: 55px;
+    padding: 2px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.container{
+    margin-top: 50px
+}
+.content{
+    width: 300px;
+    height: 400px;
+}
+
+/* SECTION 2 */
+.sec2content{
+    display: flex;
+    flex-direction: column;
+}
+.services{
+    width: auto;
+}
+
+/* SECTION 4*/
+.form{
+    width: 200px;
+}
+.form input{
+    width: 180px;
+}
